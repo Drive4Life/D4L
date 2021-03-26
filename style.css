@@ -1,0 +1,24 @@
+body
+{background-image: url(fond%20ecran%20site.jpg)}
+
+#Titre1
+{ color:#ff00ff;
+  text-shadow: 10px 10px purple;
+  font-size: 110px;
+  text-align: center;
+  font-family:sans-serif;
+}
+
+#Titre2
+{ color:#cc0000;
+  text-shadow: 2px 2px black; 
+}
+
+#Conteneur
+{ display: flex;
+  justify-content: space-around;
+  flex-direction:row;
+  -webkit-margin-start: 40px;
+  -webkit-margin-end: 850px;
+}
+
